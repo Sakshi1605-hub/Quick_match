@@ -1,0 +1,3 @@
+Candidate: Elena Rostova
+Skills: Python, PyTorch, Docker, Git
+Project: Vision Lab
